@@ -1,0 +1,6 @@
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\obj\Debug\ExtendedTreeView.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\obj\Debug\ExtendedTreeView.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\bin\Debug\ExtendedTreeView.dll
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\bin\Debug\ExtendedTreeView.pdb
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\obj\Debug\ExtendedTreeView.dll
+C:\Users\Jake\source\repos\Libraries\ExtendedTreeView\ExtendedTreeView\obj\Debug\ExtendedTreeView.pdb
